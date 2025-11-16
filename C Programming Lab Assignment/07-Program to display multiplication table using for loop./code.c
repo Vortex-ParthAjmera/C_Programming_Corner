@@ -9,8 +9,7 @@ int main() {
     if (num != 0) {
         for (i = 1; i <= 10; i++) {
             printf("%d x %d = %d\n", num, i, num * i);
-            i++;
-        }
+            }
     } else {
         printf("Zero entered, multiplication table is trivial.\n");
     }

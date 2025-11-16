@@ -15,6 +15,7 @@ int main() {
         i = 1;
         while (i <= num) {
             factorial *= i;
+            i++;  // Increment i inside the loop
         }
         printf("Factorial of %d is %llu.\n", num, factorial);
     }

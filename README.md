@@ -47,6 +47,7 @@ C-programming/
 ├── POINTER/                             # Pointer fundamentals & memory management
 ├── REAL LIFE USEFUL PROGRAMS/           # Practical utility programs
 ├── RECURSION/                           # Recursive algorithms & backtracking
+├── SOME GOOD QUESTIONS/                 # Some good programming questions to improve thinking
 ├── STRINGS/                             # String operations & text processing
 ├── STRUCTURES/                          # User-defined data types & composition
 ├── SWITCH PROGRAMS/                     # Switch-case logic & selections

@@ -72,6 +72,7 @@ C-programming/
 | **STRINGS** | Text Processing | String functions, manipulation, parsing, formatting, character operations | Beginner to Intermediate |
 | **STRUCTURES** | Data Organization | Struct definition, nested structures, bit-fields, object-oriented C patterns | Intermediate |
 | **SWITCH PROGRAMS** | Selection Statements | Switch-case logic, menu-driven programs, case handling | Beginner |
+| **SOME GOOD QUESTIONS** | For Practice | Better Understanding of C Programming language  | Intermediate to Advandce |
 | **USER DEFINE FUNCTION PROGRAMS** | Modular Programming | Function design, parameters, return values, scope, reusability | Beginner to Intermediate |
 
 ---
